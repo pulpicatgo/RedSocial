@@ -2,7 +2,7 @@
 
 .profile {
   @include themify($themes) {
-    background-color: themed("bgSoft");
+      background-color: rgb(184, 37, 37);
 
     .images {
       width: 100%;

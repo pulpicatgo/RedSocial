@@ -32,17 +32,21 @@ const Register = () => {
     <div className="register">
       <div className="card">
         <div className="left">
-        <h1>Blouaa prros</h1>
+        <h1>BloUAA</h1>
           <p>
-            La red social #1 para sufrir y hacer proyectos :D
+            ¡¡Unete y salva una vida!! 
           </p>
+          <br />
+          <br />
+          <br />
+          <br />  
           <span>¿Ya tienes cuenta?</span>
           <Link to="/login">
             <button>Login</button>
           </Link>
         </div>
         <div className="right">
-          <h1>Register</h1>
+          <h1>Registrarse</h1>
           <form>
             <input
               type="text"

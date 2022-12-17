@@ -1,24 +1,3 @@
-en api
-yarn add express mysql nodemon
-npm init -y
-yarn add moment
-yarn add jsonwebtoken
-yarn add multer
-yarn add cookie-parser
-
-en client
-yarn add axios          
-yarn add @tanstack/react-query  
-yarn add moment
-
-
-Si sale el error Failed to load config "react" to extend from
-
-en client
-yarn add eslint-config-react-app -D
-
-https://stackoverflow.com/questions/63912721/failed-to-load-config-react-to-extend-from  ** link de referencia
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

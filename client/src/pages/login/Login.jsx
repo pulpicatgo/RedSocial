@@ -31,13 +31,21 @@ const Login = () => {
     <div className="login">
       <div className="card">
         <div className="left">
-        <h1>Blouaa prros</h1>
+        <h1>BloUAA</h1>
         <p>
-            La red social #1 para sufrir y hacer proyectos :D
+            ¿Eres donador?
+
+             ¿Buscas donadores?
+
+            Esta app es para ti
           </p>
-          <span>Ya te nos uniste?</span>
+
+          <br /><br /><br />
+
+          <p>El tipo mas raro de sangre es AB-, solo tiene el 0.6% de la poblacion mundial</p>
+          <span>¿Ya te nos uniste?</span>
           <Link to="/register">
-            <button>Register</button>
+            <button>Registrarse</button>
           </Link>
         </div>
         <div className="right">

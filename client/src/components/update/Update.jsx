@@ -45,6 +45,7 @@ const Update = ({ setOpenUpdate, user }) => {
     }
   );
 
+  // eslint-disable-next-line
   const handleClick = async (e) => {
     e.preventDefault();
 
